@@ -10,3 +10,8 @@ fruta:
     nome: Melão
     peso: 600
     quantidade: 1
+  - 
+    cor: Vermelho
+    nome: Maça
+    peso: 30
+    quantidade: 1
