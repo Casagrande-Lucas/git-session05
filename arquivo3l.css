@@ -1,7 +1,7 @@
 /**
  * Usage: 
  *   <a href="" class="shiny-button"><strong>Git Avançado</strong><br>O curso completo para você</a>
- * 
+ * Teste de Revert, essa linha deve ser apagada com o comando git revert no próximo commit
  */
 
 .shiny-button {
