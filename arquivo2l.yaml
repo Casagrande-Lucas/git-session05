@@ -1,0 +1,12 @@
+--- 
+fruta: 
+  - 
+    cor: Amarelo
+    nome: Banana
+    peso: 120
+    quantidade: 6
+  - 
+    cor: Amarelo
+    nome: Melão
+    peso: 600
+    quantidade: 1
